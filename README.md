@@ -20,7 +20,6 @@ Programming Language: JavaScript
 
 Browser: Google Chrome
 
-Link to Test Case Documentation
-
+Link to Test Case Documentation: 
 For more details, visit the official test case documentation: Automation Exercise - Test Case 5
 https://www.automationexercise.com/test_cases
